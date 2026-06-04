@@ -17,11 +17,11 @@ Atualmente desenvolvendo um potenciostato de baixo custo e trabalhando com ESP32
 
 🔬 Potenciostato de baixo custo
 
-🐠 Sistema inteligente para aquário com ESP32
+Sistema inteligente para aquário com ESP32
 
-📈 Simulações de controle PID e I-PD
+Simulações de controle PID e I-PD
 
-🌐 Interfaces Web para sistemas embarcados
+Interfaces Web para sistemas embarcados
 
 ## Stack
 
