@@ -36,9 +36,6 @@ KiCad
 HTML/CSS/JS
 ```
 
-## GitHub Stats
-
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=LeandroCoxa&show_icons=true&hide_border=true)
 
 ## Contato
 
